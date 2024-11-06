@@ -1,0 +1,3 @@
+D:\Algoritmos\Semana 12\PC2\PC2\x64\Debug\PC2.vcxproj.AssemblyReference.cache
+D:\Algoritmos\Semana 12\PC2\PC2\x64\Debug\PC2.MyForm.resources
+D:\Algoritmos\Semana 12\PC2\PC2\x64\Debug\PC2.vcxproj.GenerateResource.cache

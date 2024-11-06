@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Algoritmos\\Semana 12\\PC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Entidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Entidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Entidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Entidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Zombi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Zombi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Zombi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Zombi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Jugador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Jugador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Jugador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Jugador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Bala.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Bala.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Bala.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Bala.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E57093F-E4F7-4B1B-8E6A-F0C0D465C521}|PC2\\PC2.vcxproj|solutionrelative:PC2\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\MyForm.h",
+              "RelativeDocumentMoniker": "PC2\\MyForm.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\MyForm.h",
+              "RelativeToolTip": "PC2\\MyForm.h",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T01:36:38.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Juego.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Juego.h",
+              "RelativeDocumentMoniker": "PC2\\Juego.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Juego.h",
+              "RelativeToolTip": "PC2\\Juego.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T01:25:58.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Juego.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Juego.cpp",
+              "RelativeDocumentMoniker": "PC2\\Juego.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Juego.cpp",
+              "RelativeToolTip": "PC2\\Juego.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T01:27:08.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bala.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Bala.cpp",
+              "RelativeDocumentMoniker": "PC2\\Bala.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Bala.cpp",
+              "RelativeToolTip": "PC2\\Bala.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T01:25:11.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bala.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Bala.h",
+              "RelativeDocumentMoniker": "PC2\\Bala.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Bala.h",
+              "RelativeToolTip": "PC2\\Bala.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T01:23:09.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jugador.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Jugador.cpp",
+              "RelativeDocumentMoniker": "PC2\\Jugador.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Jugador.cpp",
+              "RelativeToolTip": "PC2\\Jugador.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T01:19:10.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jugador.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Jugador.h",
+              "RelativeDocumentMoniker": "PC2\\Jugador.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Jugador.h",
+              "RelativeToolTip": "PC2\\Jugador.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T01:18:23.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zombi.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Zombi.cpp",
+              "RelativeDocumentMoniker": "PC2\\Zombi.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Zombi.cpp",
+              "RelativeToolTip": "PC2\\Zombi.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T01:12:00.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zombi.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Zombi.h",
+              "RelativeDocumentMoniker": "PC2\\Zombi.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Zombi.h",
+              "RelativeToolTip": "PC2\\Zombi.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T01:11:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entidad.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Entidad.cpp",
+              "RelativeDocumentMoniker": "PC2\\Entidad.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Entidad.cpp",
+              "RelativeToolTip": "PC2\\Entidad.cpp",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T00:55:58.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entidad.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Entidad.h",
+              "RelativeDocumentMoniker": "PC2\\Entidad.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\Entidad.h",
+              "RelativeToolTip": "PC2\\Entidad.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T00:55:36.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\MyForm.h",
+              "RelativeDocumentMoniker": "PC2\\MyForm.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "PC2\\MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T00:54:06.243Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\MyForm.cpp",
+              "RelativeDocumentMoniker": "PC2\\MyForm.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\PC2\\PC2\\MyForm.cpp",
+              "RelativeToolTip": "PC2\\MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T00:54:05.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

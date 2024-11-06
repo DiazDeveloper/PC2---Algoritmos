@@ -1,0 +1,28 @@
+﻿  Bala.cpp
+  Entidad.cpp
+D:\Algoritmos\Semana 12\PC2\PC2\Entidad.cpp(5,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Juego.cpp
+D:\Algoritmos\Semana 12\PC2\PC2\Juego.cpp(33,20): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Algoritmos\Semana 12\PC2\PC2\Juego.cpp(34,17): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Jugador.cpp
+D:\Algoritmos\Semana 12\PC2\PC2\Jugador.cpp(41,39): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Algoritmos\Semana 12\PC2\PC2\Jugador.cpp(46,40): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  MyForm.cpp
+D:\Algoritmos\Semana 12\PC2\PC2\MyForm.h(34,100): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+D:\Algoritmos\Semana 12\PC2\PC2\MyForm.h(34,57): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+D:\Algoritmos\Semana 12\PC2\PC2\MyForm.h(117,100): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+D:\Algoritmos\Semana 12\PC2\PC2\MyForm.h(117,57): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+  Zombi.cpp
+  Generando código...
+  Bala.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PC2.vcxproj -> D:\Algoritmos\Semana 12\PC2\x64\Debug\PC2.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
